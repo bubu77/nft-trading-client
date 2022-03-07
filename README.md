@@ -8,5 +8,5 @@ A Chrome Extension for browsing and trading nft on opensea.
   * Monitor
 
 
-Information retrieved from [link](https://opensea.io/)
-![Image](https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png "opensea logo" )
+Information retrieved from [https://opensea.io](https://opensea.io/)
+![Image](https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png "opensea logo" =250x )
