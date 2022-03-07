@@ -1,6 +1,8 @@
 # Nft Trading Client
 A Chrome Extension for browsing and trading nft on opensea.
 
+At the time beeing no release is available.
+
 1. Installation
 2. Activation
 3. Functionalities
